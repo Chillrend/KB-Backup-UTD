@@ -2,7 +2,7 @@
 title: Mengunggah Dokumen Laporan PKL / MBKM
 description: Cara mengunggah dokumen laporan PKL/MBKM ke Repository Politeknik Negeri Jakarta
 published: true
-date: 2022-04-12T01:44:54.553Z
+date: 2022-04-12T01:46:37.513Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-12T01:44:54.553Z
@@ -28,12 +28,12 @@ Dokumen ini akan memandu Anda untuk mengunggah laporan PKL/MBKM Anda ke Reposito
 
 ![repo_mbkm_type.png](/repository/repo_mbkm_type.png){.align-center}
 
-4. Selanjutnya, unggah dokumen yang akan Anda submit ke Repositori. Dokumen Skripsi atau Tugas Akhir harus mengikuti format repositori.
+4. Selanjutnya, unggah dokumen yang akan Anda submit ke Repositori. Dokumen laporan atau Tugas Akhir harus mengikuti format repositori.
 
 #### Format Dokumen {.tabset}
 ##### Potongan Dokumen
 
-Skripsi harus dipotong menjadi beberapa bagian:
+Laporan harus dipotong menjadi beberapa bagian:
 - **Halaman Identitas Laporan (Judul, Lembar Pengesahan, Halaman Deklarasi Orisinalitas, Kata Pengantar, Daftar Isi, Daftar Gambar, Daftar Tabel), Abstrak, Bab 1, Bab 5, Daftar Pustaka / Referensi dan Lampiran (Dalam 1 File)**
 (Isi dokumen laporan menyesuaikan kententuan jurusan masing-masing)
 - **Isi (Bab 2 s/d Bab 4)**
@@ -49,7 +49,7 @@ Laporan harus sudah diberi Watermark
 
 ####
 
-5. Setelah dokumen Anda berhasil diunggah, maka akan muncul formulir untuk dokumen Anda. Silahkan isi `Type` sesuai dengan format dokumen yang Anda unggah (Biasanya sudah otomatis terpilih), isikan deskripsi, visibilitas dokumen di repositori, dan Bahasa dokumen sesuai dengan keterangan visibilitas dibawah. Klik kembali tombol `choose file` dari gambar diatas untuk setiap bagian skripsi yang akan disubmit. Setelah Anda selesai mengunggah seluruh dokumen yang diperlukan, klik `Selanjutnya`
+5. Setelah dokumen Anda berhasil diunggah, maka akan muncul formulir untuk dokumen Anda. Silahkan isi `Type` sesuai dengan format dokumen yang Anda unggah (Biasanya sudah otomatis terpilih), isikan deskripsi, visibilitas dokumen di repositori, dan Bahasa dokumen sesuai dengan keterangan visibilitas dibawah. Klik kembali tombol `choose file` dari gambar diatas untuk setiap bagian laporan yang akan disubmit. Setelah Anda selesai mengunggah seluruh dokumen yang diperlukan, klik `Selanjutnya`
 
 	##### Visibilitas
 
@@ -78,7 +78,7 @@ Laporan harus sudah diberi Watermark
 
 ![repo_major.png](/repository/repo_major.png)
  
-10. Pada Tanggal, di isi dengan tanggal Anda mengunggah dokumen skripsi. Pada `Tipe Tanggal`, pilih `Tanggal Submisi`.
+10. Pada Tanggal, di isi dengan tanggal Anda mengunggah dokumen laporan. Pada `Tipe Tanggal`, pilih `Tanggal Submisi`.
 
 ![repo_mbkm_date.png](/repository/repo_mbkm_date.png)
 
@@ -101,4 +101,4 @@ Laporan harus sudah diberi Watermark
 > Jika submisi Anda telah selesai di review dan disetujui oleh editor Repositori PNJ, maka `Item Status` pada submisi Anda akan berubah menjadi **“Live Archive”**.
 {.is-success}
 
-15. Selamat! Anda telah mensubmit dokumen Skripsi atau Tugas akhir Anda ke Repositori PNJ.
+15. Selamat! Anda telah mensubmit dokumen laporan Anda ke Repositori PNJ.
