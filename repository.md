@@ -2,7 +2,7 @@
 title: Repository Politeknik Negeri Jakarta
 description: Panduan Penggunaan Sistem Repository Politeknik Negeri Jakarta
 published: true
-date: 2022-04-13T01:03:55.826Z
+date: 2022-04-13T01:12:13.692Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-06T03:08:42.966Z
