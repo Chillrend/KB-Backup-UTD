@@ -2,7 +2,7 @@
 title: Hotspot Politeknik Negeri Jakarta
 description: Panduan lengkap penggunaan hotspot di kawasan Politeknik Negeri Jakarta yang dikelola oleh Unit Transformasi Digital.
 published: false
-date: 2022-06-07T08:53:14.224Z
+date: 2022-06-07T08:56:07.694Z
 tags: hotspot, internet, approval, access point, daftar, ktm
 editor: markdown
 dateCreated: 2022-06-07T08:12:48.475Z
@@ -13,6 +13,8 @@ Pada halaman ini anda dapat melihat panduan penggunaan hotspot di lingkungan Pol
 
 ## Mahasiswa
 ### Pendaftaran Perangkat
+### Ganti Perangkat
 
 ## Pegawai
 ### Pendaftaran Perangkat
+### Ganti Perangkat
