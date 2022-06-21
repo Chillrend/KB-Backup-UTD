@@ -2,7 +2,7 @@
 title: Petunjuk Pendaftaran Mahasiswa Baru (PMB)
 description: 
 published: true
-date: 2022-06-21T05:01:16.456Z
+date: 2022-06-21T05:20:52.476Z
 tags: pendaftaran, pmb
 editor: markdown
 dateCreated: 2022-06-21T03:59:47.410Z
@@ -36,9 +36,29 @@ Atau klik `Cetak Kode Transaksi Bank` untuk melihat kode Transaksi bank pada men
 
 7. Jika sudah selesai melakukan proses pembayaran, login ke aplikasi sebelumnya dengan menggunakan **kode transaksi bank** untuk melengkapi data pendaftaran. Masukkan Kode transaksi bank dan Password yang sudah dibuat, lalu klik `Login`.
 ![pendaftaran_9.jpg](/pmb/pendaftaran_9.jpg)
-1. Kemudian Lengkapi Biodata Pribadi
+1. Kemudian Lengkapi Biodata Pribadi, Jika telah selesai, klik `Next`
 ![pendaftaran_10.jpg](/pmb/pendaftaran_10.jpg)
-1. 
+1. Lalu lengkapi isian data nilai dan sekolah asal, Jika telah selesai, klik `Next`
+![pendaftaran_11.jpg](/pmb/pendaftaran_11.jpg)
+> **Khusus Program Kerjasama:** Anda harus mengisi kolom Link Drive `Penyimpanan Bukti (Nilai UTBK dan Raport).` Anda harus mengupload bukti nilai UTBK dan Raport didalam satu folder penyimpanan cloud (seperti **Google Drive, DropBox, atau OneDrive**) dan membagikan link nya melalui isian form ini.
+{.is-info}
+
+10. Isi Data orang Tua dan Wali, Jika telah selesai, klik `Next`
+![pendaftaran_12.jpg](/pmb/pendaftaran_12.jpg)
+1. Lalu isi Pilihan Prodi dan Upload Dokumen
+![pendaftaran_13.jpg](/pmb/pendaftaran_13.jpg)
+1. Jika telah selesai pilih `Simpan Final`
+> Anda dapat menyimpan sementara jika belum selesai mengisi dengan memilih `Simpan Sementara`
+{.is-info}
+
+> Jika Anda mengalami kesulitan dengan pengisian form diatas, Anda dapat menghubungi kami di:
+:email: : pmb@pnj.ac.id, akademik@pnj.ac.id
+:phone: : (+6221) 7270036, ext 217
+Hari Kerja : 08:00 - 16:00 WIB
+{.is-success}
+
+
+
 
 
 
