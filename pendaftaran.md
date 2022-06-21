@@ -2,7 +2,7 @@
 title: Petunjuk Pendaftaran Mahasiswa Baru (PMB)
 description: 
 published: true
-date: 2022-06-21T05:20:52.476Z
+date: 2022-06-21T05:27:36.344Z
 tags: pendaftaran, pmb
 editor: markdown
 dateCreated: 2022-06-21T03:59:47.410Z
@@ -51,12 +51,17 @@ Atau klik `Cetak Kode Transaksi Bank` untuk melihat kode Transaksi bank pada men
 > Anda dapat menyimpan sementara jika belum selesai mengisi dengan memilih `Simpan Sementara`
 {.is-info}
 
-> Jika Anda mengalami kesulitan dengan pengisian form diatas, Anda dapat menghubungi kami di:
+13.  Untuk penyimpanan data terakhir, maka akan muncul tampilan berikut
+![pendaftaran_14.jpg](/pmb/pendaftaran_14.jpg)
+1. Klik **Cetak Kartu Peserta** dan **Cetak Form Biodata**
+![pendaftaran_16.jpg](/pmb/pendaftaran_16.jpg)
+![pendaftaran_14.jpg](/pmb/pendaftaran_15.jpg)
+
+#### Bantuan
+Jika Anda mengalami kesulitan dengan pengisian form diatas,atau ada pertanyaan tentang pendaftaran Anda dapat menghubungi kami di:
 :email: : pmb@pnj.ac.id, akademik@pnj.ac.id
 :phone: : (+6221) 7270036, ext 217
 Hari Kerja : 08:00 - 16:00 WIB
-{.is-success}
-
 
 
 
