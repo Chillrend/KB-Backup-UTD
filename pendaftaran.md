@@ -2,7 +2,7 @@
 title: Petunjuk Pendaftaran Mahasiswa Baru (PMB)
 description: 
 published: true
-date: 2022-06-21T05:27:36.344Z
+date: 2022-06-21T05:27:44.547Z
 tags: pendaftaran, pmb
 editor: markdown
 dateCreated: 2022-06-21T03:59:47.410Z
