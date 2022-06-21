@@ -2,7 +2,7 @@
 title: Petunjuk Pendaftaran Mahasiswa Baru (PMB)
 description: 
 published: true
-date: 2022-06-21T04:38:48.648Z
+date: 2022-06-21T05:01:16.456Z
 tags: pendaftaran, pmb
 editor: markdown
 dateCreated: 2022-06-21T03:59:47.410Z
@@ -31,9 +31,14 @@ Atau klik `Cetak Kode Transaksi Bank` untuk melihat kode Transaksi bank pada men
 ![pendaftaran_6.jpg](/pmb/pendaftaran_6.jpg)
 - Pilih Penyedia Jasa `Politeknik Negeri Jakarta (10025)` dan isikan Kode Transaksi Bank
 ![pendaftaran_7.jpg](/pmb/pendaftaran_7.jpg)
+- Kemudian Lanjutkan Pembayaran
+![pendaftaran_8.jpg](/pmb/pendaftaran_8.jpg)
 
-
-
+7. Jika sudah selesai melakukan proses pembayaran, login ke aplikasi sebelumnya dengan menggunakan **kode transaksi bank** untuk melengkapi data pendaftaran. Masukkan Kode transaksi bank dan Password yang sudah dibuat, lalu klik `Login`.
+![pendaftaran_9.jpg](/pmb/pendaftaran_9.jpg)
+1. Kemudian Lengkapi Biodata Pribadi
+![pendaftaran_10.jpg](/pmb/pendaftaran_10.jpg)
+1. 
 
 
 
